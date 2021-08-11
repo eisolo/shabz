@@ -15,9 +15,13 @@ html {
 body {
     font-family: "Helvetica Neue", Helvetica, Geneva, sans-serif;
 	line-height: 1;
-    position: relative;
+	max-width: 666px;
+margin: 0 auto;
+font-size: 19px;
 
 }
+
+* p {text-align: justify;}
 
 ol, ul {
 	list-style: disc;
